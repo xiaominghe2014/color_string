@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 """
-@version: ??
+@version: 0.0.0
 @author: xiaoming
 @license: MIT Licence 
 @contact: xiaominghe2014@gmail.com
